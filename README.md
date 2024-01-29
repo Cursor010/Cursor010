@@ -1,48 +1,111 @@
-<div data-view-component="true" class="Layout-main">      <turbo-frame id="user-profile-frame" data-turbo-action="advance">
+# Привет, меня зовут Алексей!
 
-  <div class="Box mt-4 ">
-  <div class="Box-body p-4">
-    <div class="d-flex flex-justify-between">
-      <div class="text-mono text-small mb-3">
-        <a href="/gkhan205/gkhan205" class="no-underline Link--primary" previewlistener="true"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">гхан205</font></font></a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">/</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">README </font></font><span class="color-fg-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.md</font></font></span>
-      </div>
+---
 
-<h2 dir="auto"><a id="user-content-hi-there--im-ghazi-khan-a-passionate-staff-software-engineer-at-tech9" class="anchor" aria-hidden="true" tabindex="-1" href="#hi-there--im-ghazi-khan-a-passionate-staff-software-engineer-at-tech9"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Всем привет! </font><font style="vertical-align: inherit;">👋 Я Гази Хан, страстный штатный инженер-программист в Tech9.</font></font></h2>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀 Имея более чем десятилетний опыт работы, я отточил свои навыки создания первоклассных корпоративных программных продуктов. </font><font style="vertical-align: inherit;">Мой путь заключается в использовании разнообразных технологий для проектирования, разработки и внедрения решений корпоративного класса, а также в получении глубокого понимания потребностей клиентов и использования продуктов.</font></font></p>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👨‍🏭 Руководя и наставляя команды, я разрабатываю стандарты кодирования и лучшие практики пользовательского интерфейса. </font><font style="vertical-align: inherit;">Мой обширный опыт разработки приложений гарантирует, что я всегда нахожусь в авангарде инновационной разработки пользовательского интерфейса.</font></font></p>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🛠️ Мой набор технических инструментов включает NextJS, React, React Native, NodeJS, Redux/RTK Toolkit и Angular. </font><font style="vertical-align: inherit;">Я преуспеваю в Agile-средах, где я провел более 10 лет, создавая доступные пользовательские интерфейсы для веб-приложений, уделяя особое внимание итерациям, непрерывной интеграции и неизменному качеству.</font></font></p>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔐 Отраслевые стандарты аутентификации, такие как oAuth2? </font><font style="vertical-align: inherit;">Да, я тебя прикрыл. </font><font style="vertical-align: inherit;">Включение аспектов авторизации в структуру пользовательского интерфейса — это для меня просто еще один день в офисе.</font></font></p>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🧠 Когда дело доходит до решения проблем, я проявляю себя с помощью Agile-мышления, легко адаптируясь к различным методологиям. </font><font style="vertical-align: inherit;">Моя способность разбивать сложные технические вопросы на четкие и понятные объяснения позволяет мне без особых усилий преодолеть разрыв между технологиями и бизнесом.</font></font></p>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Давайте объединяться и строить будущее вместе! </font><font style="vertical-align: inherit;">🌟</font></font></p>
-<p dir="auto"><a href="https://www.linkedin.com/in/ghazi-khan/" rel="nofollow" previewlistener="true"><img src="https://camo.githubusercontent.com/fe0b273101a05b571a87606ecb1a11635590fbc80b12ecb343fc9cafb0b1e108/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4768617a692d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6768617a692d6b68616e2f" alt="Linkedin: Гази" data-canonical-src="https://img.shields.io/badge/-Ghazi-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/ghazi-khan/" style="max-width: 100%;"></a>
-<a href="https://github.com/gkhan205" previewlistener="true"><img src="https://camo.githubusercontent.com/73ae50db443da28990b1b419fb591118e3e9fc35f273dbfeba940beaedb01929/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f676b68616e3230353f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c" alt="GitHub Гази" data-canonical-src="https://img.shields.io/github/followers/gkhan205?label=follow&amp;style=social" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/068ad8cc5662c634156100bd57dfc462d97d3698a1d27f9a0f2966d408bbe866/68747470733a2f2f696d672e736869656c64732e696f2f796f75747562652f6368616e6e656c2f73756273637269626572732f5543696f37674946696c773677736762545a41564f4272673f7374796c653d736f6369616c" previewlistener="true"><img src="https://camo.githubusercontent.com/068ad8cc5662c634156100bd57dfc462d97d3698a1d27f9a0f2966d408bbe866/68747470733a2f2f696d672e736869656c64732e696f2f796f75747562652f6368616e6e656c2f73756273637269626572732f5543696f37674946696c773677736762545a41564f4272673f7374796c653d736f6369616c" alt="Подписчики канала YouTube" data-canonical-src="https://img.shields.io/youtube/channel/subscribers/UCio7gIFilw6wsgbTZAVOBrg?style=social" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5e36c9ae1db1684fa302efd56b27295f5985128abdd590724b20bb32fda2a733/68747470733a2f2f696d672e736869656c64732e696f2f796f75747562652f6368616e6e656c2f76696577732f5543696f37674946696c773677736762545a41564f4272673f7374796c653d736f6369616c" previewlistener="true"><img src="https://camo.githubusercontent.com/5e36c9ae1db1684fa302efd56b27295f5985128abdd590724b20bb32fda2a733/68747470733a2f2f696d672e736869656c64732e696f2f796f75747562652f6368616e6e656c2f76696577732f5543696f37674946696c773677736762545a41564f4272673f7374796c653d736f6369616c" alt="Просмотры канала YouTube" data-canonical-src="https://img.shields.io/youtube/channel/views/UCio7gIFilw6wsgbTZAVOBrg?style=social" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/877019a37b1c2c4004ba25c04300521d99b43e74d6c9e42e1e2e036d4769f0ee/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f636f6465776974686768617a693f7374796c653d736f6369616c" previewlistener="true"><img src="https://camo.githubusercontent.com/877019a37b1c2c4004ba25c04300521d99b43e74d6c9e42e1e2e036d4769f0ee/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f636f6465776974686768617a693f7374796c653d736f6369616c" alt="Твиттер Следовать" data-canonical-src="https://img.shields.io/twitter/follow/codewithghazi?style=social" style="max-width: 100%;"></a></p>
-<h3 dir="auto"><a id="user-content-top-skills" class="anchor" aria-hidden="true" tabindex="-1" href="#top-skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Лучшие навыки:</font></font></h3>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2abe53f4176fd7b9639f1c316e77574575c1c99c660e03fefa08299045988ba5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465" previewlistener="true"><img src="https://camo.githubusercontent.com/2abe53f4176fd7b9639f1c316e77574575c1c99c660e03fefa08299045988ba5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465" alt="Следующий JS" data-canonical-src="https://img.shields.io/badge/Next-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c2877247f7c0a5825ef41ff30b86acffd42ac23272514f92d21d9eef7f9cca41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6573746a732d2532334530323334452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465" previewlistener="true"><img src="https://camo.githubusercontent.com/c2877247f7c0a5825ef41ff30b86acffd42ac23272514f92d21d9eef7f9cca41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6573746a732d2532334530323334452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465" alt="NestJS" data-canonical-src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0d58facab1be74748c39244ff3d990ae8ddd765af40263ed006219154ba90649/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" previewlistener="true"><img src="https://camo.githubusercontent.com/0d58facab1be74748c39244ff3d990ae8ddd765af40263ed006219154ba90649/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="NodeJS" data-canonical-src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3babc94d778f96441b3a66615fb5ee88c6ed04f174ed49b04df92b071a7d0e80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" previewlistener="true"><img src="https://camo.githubusercontent.com/3babc94d778f96441b3a66615fb5ee88c6ed04f174ed49b04df92b071a7d0e80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" alt="Реагировать" data-canonical-src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/742126d474d8314230c293fa38b2fa9ff827e5fac43d9808c561be5887a4fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d686f7470696e6b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d53415353266c6f676f436f6c6f723d7768697465" previewlistener="true"><img src="https://camo.githubusercontent.com/742126d474d8314230c293fa38b2fa9ff827e5fac43d9808c561be5887a4fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d686f7470696e6b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d53415353266c6f676f436f6c6f723d7768697465" alt="САСС" data-canonical-src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" style="max-width: 100%;"></a></p>
-<h3 dir="auto"><a id="user-content-visit-my" class="anchor" aria-hidden="true" tabindex="-1" href="#visit-my"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Посетите мой</font></font></h3>
-<p dir="auto"><strong><a href="https://ghazikhan.in/blog" rel="nofollow" previewlistener="true"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Блог</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> – </font></font><a href="https://www.youtube.com/channel/UCio7gIFilw6wsgbTZAVOBrg" rel="nofollow" previewlistener="true"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a></strong></p>
-<h3 dir="auto"><a id="user-content-author-of-npm-package" class="anchor" aria-hidden="true" tabindex="-1" href="#author-of-npm-package"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Автор пакета NPM:</font></font></h3>
-<ul dir="auto">
-<li><strong><a href="https://www.npmjs.com/package/formify-react" rel="nofollow" previewlistener="true"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Формировать Реагировать</font></font></a></strong></li>
-<li><strong><a href="https://github.com/gkhan205/cwg-react-starter" previewlistener="true"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CWG React Стартер</font></font></a></strong></li>
-<li><strong><a href="https://www.npmjs.com/package/slugifyme" rel="nofollow" previewlistener="true"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Слизифиме</font></font></a></strong></li>
-<li><strong><a href="https://www.npmjs.com/package/react-soccer-formation" rel="nofollow" previewlistener="true"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Реагировать на футбол</font></font></a></strong></li>
-</ul>
-<hr>
-<ul dir="auto">
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔭 Сейчас я работаю </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">старшим инженером-программистом в Tech9.</font></font></strong></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱 Сейчас я изучаю </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Блокчейн</font></font></strong></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👯 Я ищу сотрудничество в проектах с открытым исходным кодом/коммерческих проектах.</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤔 Мне нужна помощь в цифровом маркетинге, чтобы привлечь трафик на мой блог.</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬 Спросите меня о </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">веб-разработке</font></font></strong></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📫 Как со мной связаться:
- </font></font><strong><a href="https://twitter.com/ghazikhan205" rel="nofollow" previewlistener="true"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Twitter</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , </font></font><a href="https://instagram.com/codewithghazi" rel="nofollow" previewlistener="true"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Instagram.</font></font></a></strong></li>
-</ul>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b9c90c95d48e5fca6c549a7fcdbb4f2d47b96cb59432184ffaa21f8f8c6bc550/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d676b68616e323035266c61796f75743d636f6d70616374267468656d653d6461726b26686964655f626f726465723d74727565" previewlistener="true"><img src="https://camo.githubusercontent.com/b9c90c95d48e5fca6c549a7fcdbb4f2d47b96cb59432184ffaa21f8f8c6bc550/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d676b68616e323035266c61796f75743d636f6d70616374267468656d653d6461726b26686964655f626f726465723d74727565" alt="Лучшие языки" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&amp;layout=compact&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3c787342bbf7f10cfb693aa637b66b71eec29af1f40519b9c8c1600b74dfa7cf/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d676b68616e3230352673686f775f69636f6e733d7472756526686964655f626f726465723d74727565267468656d653d6461726b" previewlistener="true"><img src="https://camo.githubusercontent.com/3c787342bbf7f10cfb693aa637b66b71eec29af1f40519b9c8c1600b74dfa7cf/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d676b68616e3230352673686f775f69636f6e733d7472756526686964655f626f726465723d74727565267468656d653d6461726b" alt="Статистика Гази на GitHub" data-canonical-src="https://github-readme-stats.vercel.app/api?username=gkhan205&amp;show_icons=true&amp;hide_border=true&amp;theme=dark" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://github.com/gkhan205/github-profile-trophy" previewlistener="true"><img src="https://camo.githubusercontent.com/bc9dfff653e6cf63a0ec85f5b711a755b0e44101b0b777fa59f4e1b5cbd56b30/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d676b68616e323035" alt="трофей" data-canonical-src="https://github-profile-trophy.vercel.app/?username=gkhan205" style="max-width: 100%;"></a></p>
-</article>
+### :man_technologist: Обо мне:
+
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+
+- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
+
+- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
+
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+
+---
+
+### 🤝 Социальные сети:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/tehnomaniak07" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
+    </a>
+    <a href="https://vk.com/f1ll_zzz" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+    <a href="https://dzen.ru/tehnomaniak" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
+    </a>
   </div>
+
+---
+
+### 💻 Технологии:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
+
+---
+
+### 🛠 Инструменты:
+
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+<!-- ### 💻 Пройденные курсы:
+
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
+| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
+| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
+| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
+| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
+| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
+| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+
+--- -->
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
