@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Dmitriy" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Cursor" style="max-width: 100%;">
 
 # 🚀 about
 
