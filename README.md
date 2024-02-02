@@ -32,9 +32,9 @@
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-[<p align="center">[![Cursor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cursor010&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues)](https://github.com/Cursor010/github-readme-stats)
+<p align="center">[![Cursor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cursor010&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues)](https://github.com/Cursor010/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cursor010&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/Cursor010/github-readme-stats)</p>
-[<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cursor010&theme=dark)](https://git.io/streak-stats)</p>
+<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cursor010&theme=dark)](https://git.io/streak-stats)</p>
 
 
 <!--START_SECTION:waka-->
