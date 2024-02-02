@@ -36,7 +36,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
 
-[![Cursor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cursor010)](https://github.com/Cursor010/github-readme-stats)
+[![Cursor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cursor010&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues)](https://github.com/Cursor010/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
