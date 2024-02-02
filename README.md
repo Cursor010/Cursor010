@@ -36,13 +36,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cursor010&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/Cursor010/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cursor010&theme=dark)](https://git.io/streak-stats)
 
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.66 % as on ⏰ 28-Jan-2024
-
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
