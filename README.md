@@ -26,7 +26,6 @@
       <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="75" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="60" height="55"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="45" height="55"/>
       <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="c++" width="60" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="60" height="55"/>
 </p>
